@@ -1,0 +1,5 @@
+data/
+result_data/
+*.csv
+*.npy
+.DS_Store
